@@ -1,4 +1,4 @@
-# git-hub-.demo
+# Amazon-clone-.
 It is my first git repository...
 <br>
 author-Himanshu Gusain
